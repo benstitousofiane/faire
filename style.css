@@ -1,0 +1,34 @@
+/*FOnt : Open Sans Bold 700, font-family: 'Open Sans', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+body{
+    background-color: #1d1d1d;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+main{
+    text-align: center;
+    background-color: #2b74319c;
+    padding-top: 1px;
+    padding-bottom: 50px;
+    border-radius: 30px;
+}
+
+main button{
+    border: none;
+    background-color: #1d1d1d;
+    font-size: 30px;
+    color: #aed1aa;
+    border-radius: 10px;
+}
+
+main input{
+    font-size: 30px;
+}
+
+#toDoContainer{
+    text-align: center;
+}
+#toDoContainer p{
+    font-size: 30px;
+}
